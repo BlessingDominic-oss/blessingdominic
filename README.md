@@ -8,9 +8,13 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/BlessingDominic-oss/ticket-lifecycle)
     
 - <b>Microsoft Azure</b>
-  - [Creating a Windows and Linux Virtual Machine in the Cloud]
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Creating a Windows and Linux Virtual Machine in the Cloud](https://github.com/BlessingDominic-oss/Creating-VMs-Azure)
+   - [VPN Setup in Virtual Machine ](https://github.com/BlessingDominic-oss/Setting-Up-A-VPN))
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols with Wireshark](https://github.com/BlessingDominic-oss/azure-network-protocols)
+ 
+ - <b>Active Directory</b>
+   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/BlessingDominic-oss/configure-ad)
+
 
 <h2>🤳Connect with me:</h2>
 
