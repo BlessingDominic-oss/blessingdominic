@@ -1,4 +1,4 @@
-#<h1>Hi, I'm Blessing, an <a href="https://www.linkedin.com/in/blessing-nze-2a7051174?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)">IT Professional</a>☺</h1>
+<h1>Hi, I'm Blessing, an <a href="https://www.linkedin.com/in/blessing-nze-2a7051174?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
