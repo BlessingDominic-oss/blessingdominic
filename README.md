@@ -9,7 +9,7 @@
     
 - <b>Microsoft Azure</b>
   - [Creating a Windows and Linux Virtual Machine in the Cloud](https://github.com/BlessingDominic-oss/Creating-VMs-Azure)
-   - [VPN Setup in Virtual Machine ](https://github.com/BlessingDominic-oss/Setting-Up-A-VPN))
+   - [VPN Setup in Virtual Machine ](https://github.com/BlessingDominic-oss/Setting-Up-A-VPN)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols with Wireshark](https://github.com/BlessingDominic-oss/azure-network-protocols)
  
  - <b>Active Directory</b>
